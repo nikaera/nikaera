@@ -1,7 +1,6 @@
 ### Hi I’m nikaera. 😄
 
-My blog is [here.](https://nikaera.com) :memo:  
-I love music and games. :heart:
+My blog is [here.](https://nikaera.com) :memo: I love music and video games. :heart:
 
 [![](https://raw.githubusercontent.com/nikaera/nikaera/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nikaera/nikaera/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
