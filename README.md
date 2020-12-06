@@ -18,6 +18,13 @@
 
 My blog is [here.](https://nikaera.com) :memo: I love music and video games. :heart:
 
+## Tech blog :hammer:
+
+- [Zenn](https://zenn.dev/nikaera)
+- [Qiita](https://qiita.com/nikaera)
+
+## Stats :bar_chart:
+
 [![](https://raw.githubusercontent.com/nikaera/nikaera/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="left">
