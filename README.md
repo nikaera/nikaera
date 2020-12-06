@@ -8,7 +8,7 @@
 <a href="http://qiita.com/nikaera">
   <img height="20" src="https://qiita-badge.apiapi.app/s/nikaera/posts.svg" />
 </a>
-<a href="http://qiita.com/yutakatay">
+<a href="http://qiita.com/nikaera">
   <img height="20" src="https://qiita-badge.apiapi.app/s/nikaera/contributions.svg" />
 </a>
 
