@@ -17,6 +17,7 @@
 ### Hi I’m nikaera! 😄
 
 My blog is [here.](https://nikaera.com) :memo: I love music and video games. :heart:
+
 [![](https://raw.githubusercontent.com/nikaera/nikaera/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="left">
