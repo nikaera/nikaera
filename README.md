@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=nikaera)
+<a href="https://github.com/nikaera/">
+  <img src="https://komarev.com/ghpvc/?username=nikaera" alt="nikaera" />
+</a>
 <a href="http://twitter.com/n1kaera">
   <img height="20" src="https://img.shields.io/twitter/follow/n1kaera?label=Twitter&logo=twitter&style=flat" />
 </a>
@@ -16,9 +18,14 @@
 
 My blog is [here.](https://nikaera.com) :memo: I love music and video games. :heart:
 
-[![](https://raw.githubusercontent.com/nikaera/nikaera/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/nikaera/nikaera/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/nikaera/nikaera/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="left">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nikaera&count_private=true&show_icons=true&show_icons=true&theme=graywhite" />
+  <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikaera&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=graywhite" />
+</p>
+
+[![](https://raw.githubusercontent.com/nikaera/nikaera/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nikaera/nikaera/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nikaera/nikaera/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <!--
