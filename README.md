@@ -7,6 +7,18 @@
 <a href="https://github.com/nikaera">
   <img height="20" src="https://img.shields.io/github/followers/nikaera?label=follow&logo=github&style=flat" />
 </a>
+<a href="https://zenn.dev/nikaera">
+  <img src="https://zenn-badge.herokuapp.com/s/nikaera/likes" alt="nikaera likes" />
+</a>
+<a href="https://zenn.dev/nikaera/articles">
+  <img height="20" src="https://zenn-badge.herokuapp.com/s/nikaera/articles" alt="nikaera articles" />
+</a>
+<a href="https://zenn.dev/nikaera/followers">
+  <img height="20" src="https://zenn-badge.herokuapp.com/s/nikaera/followers" alt="nikaera followers" />
+</a>
+<a href="https://zenn.dev/nikaera/books">
+  <img height="20" src="https://zenn-badge.herokuapp.com/s/nikaera/books" alt="nikaera books" />
+</a>
 <a href="http://qiita.com/nikaera">
   <img height="20" src="https://qiita-badge.apiapi.app/s/nikaera/posts.svg" />
 </a>
