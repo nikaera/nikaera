@@ -9,16 +9,16 @@
 </a>
 <br/>
 <a href="https://zenn.dev/nikaera">
-  <img src="https://zenn-badge.herokuapp.com/s/nikaera/likes?style=plastic" alt="nikaera likes" />
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/likes?style=plastic" alt="nikaera likes" />
 </a>
 <a href="https://zenn.dev/nikaera/articles">
-  <img src="https://zenn-badge.herokuapp.com/s/nikaera/articles?style=plastic" alt="nikaera articles" />
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/articles?style=plastic" alt="nikaera articles" />
 </a>
 <a href="https://zenn.dev/nikaera/followers">
-  <img src="https://zenn-badge.herokuapp.com/s/nikaera/followers?style=plastic" alt="nikaera followers" />
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/followers?style=plastic" alt="nikaera followers" />
 </a>
 <a href="https://zenn.dev/nikaera/books">
-  <img src="https://zenn-badge.herokuapp.com/s/nikaera/books?style=plastic" alt="nikaera books" />
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/books?style=plastic" alt="nikaera books" />
 </a>
 <br/>
 <a href="http://qiita.com/nikaera">
