@@ -35,8 +35,9 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-- [Zenn](https://zenn.dev/nikaera)
-- [Qiita](https://qiita.com/nikaera)
+<!--[START github.com/ikawaha/feedsnippet]-->
+
+<!--[END github.com/ikawaha/feedsnippet]-->
 
 ## Stats :bar_chart:
 
