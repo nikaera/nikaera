@@ -8,7 +8,7 @@
         {{- else }}{{ if eq .Header.FeedLink "https://qiita.com/nikaera/feed" -}}
             ![](./icon/qiita.png)
         {{- end }}{{ end -}}
-      [{{ .Title }}]({{ .Link }})
+      {{}}[{{ .Title }}]({{ .Link }})
     {{ end }}
   limit: 10
   sort_by_published: true
