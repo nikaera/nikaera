@@ -3,7 +3,12 @@
     - https://qiita.com/nikaera/feed
   template: |-
     {{range . -}}
-      * [{{ .Title }}]({{ .Link }})
+      * {{ if eq .Header.FeedLink "https://zenn.dev/nikaera/feed" -}}
+            ![](./icon/zenn.png)
+        {{- else }}{{ if eq .Header.FeedLink "https://qiita.com/nikaera/feed" -}}
+            ![](./icon/qiita.png)
+        {{- end }}{{ end -}}
+      [{{ .Title }}]({{ .Link }})
     {{ end }}
   limit: 10
   sort_by_published: true
