@@ -35,16 +35,16 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-02-22T11:15:06Z]-->
-* ![](./icon/zenn.png)[Vercel の定期デプロイを GitHub Actions で実現する](https://zenn.dev/nikaera/articles/vercel-github-actions)
-* ![](./icon/zenn.png)[AWS Lightsail Containers に Actix web をデプロイする](https://zenn.dev/nikaera/articles/aws-lightsail-containers-rust-actix-web)
-* ![](./icon/zenn.png)[Actix web で HttpOnly な Cookie を設定する](https://zenn.dev/nikaera/articles/cookie-rust-actix-web)
-* ![](./icon/qiita.png)[[Tips] React で highlight.js を適用する方法](https://qiita.com/nikaera/items/aaf62d3312d4ac9e685e)
-* ![](./icon/qiita.png)[[Tips] Hugo で外部リンクを target="_blank" で開く方法](https://qiita.com/nikaera/items/2b5289ce36fc0c8e9f12)
-* ![](./icon/zenn.png)[Hugo で React + TypeScript を利用してサクッとウェブサイトに RSS リーダーを追加する](https://zenn.dev/nikaera/articles/hugo-react-dev)
-* ![](./icon/qiita.png)[MediaPackage 用の CloudFront ディストリビューションを AWS SDK で作成する](https://qiita.com/nikaera/items/b866fd6adca12a88f0ed)
-* ![](./icon/zenn.png)[MediaPackage 用の CloudFront ディストリビューションを AWS SDK で作成する](https://zenn.dev/nikaera/articles/cloudfront-for-mediapackage)
-* ![](./icon/zenn.png)[Hugo + GitHub Pages + GitHub Actions で独自ドメインのウェブサイトを構築する](https://zenn.dev/nikaera/articles/hugo-github-actions-for-github-pages)
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-02-22T11:28:39Z]-->
+* ![](./icon/zenn.png) [Vercel の定期デプロイを GitHub Actions で実現する](https://zenn.dev/nikaera/articles/vercel-github-actions)
+* ![](./icon/zenn.png) [AWS Lightsail Containers に Actix web をデプロイする](https://zenn.dev/nikaera/articles/aws-lightsail-containers-rust-actix-web)
+* ![](./icon/zenn.png) [Actix web で HttpOnly な Cookie を設定する](https://zenn.dev/nikaera/articles/cookie-rust-actix-web)
+* ![](./icon/qiita.png) [[Tips] React で highlight.js を適用する方法](https://qiita.com/nikaera/items/aaf62d3312d4ac9e685e)
+* ![](./icon/qiita.png) [[Tips] Hugo で外部リンクを target="_blank" で開く方法](https://qiita.com/nikaera/items/2b5289ce36fc0c8e9f12)
+* ![](./icon/zenn.png) [Hugo で React + TypeScript を利用してサクッとウェブサイトに RSS リーダーを追加する](https://zenn.dev/nikaera/articles/hugo-react-dev)
+* ![](./icon/qiita.png) [MediaPackage 用の CloudFront ディストリビューションを AWS SDK で作成する](https://qiita.com/nikaera/items/b866fd6adca12a88f0ed)
+* ![](./icon/zenn.png) [MediaPackage 用の CloudFront ディストリビューションを AWS SDK で作成する](https://zenn.dev/nikaera/articles/cloudfront-for-mediapackage)
+* ![](./icon/zenn.png) [Hugo + GitHub Pages + GitHub Actions で独自ドメインのウェブサイトを構築する](https://zenn.dev/nikaera/articles/hugo-github-actions-for-github-pages)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## Stats :bar_chart:
