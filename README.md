@@ -30,7 +30,7 @@
 
 ### Hi I’m nikaera! 😄
 
-My blog is [here.](https://nikaera.com) :memo: I love music and video games. :heart:  
+My homepage is [here.](https://nikaera.com) :memo: I love music and video games. :heart:  
 I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
