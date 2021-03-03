@@ -35,7 +35,7 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-03-03T14:08:04Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-03-03T15:07:29Z]-->
 * ![](./icon/zenn.png) [Vercel の定期デプロイを GitHub Actions で実現する](https://zenn.dev/nikaera/articles/vercel-github-actions)
 * ![](./icon/zenn.png) [AWS Lightsail Containers に Actix web をデプロイする](https://zenn.dev/nikaera/articles/aws-lightsail-containers-rust-actix-web)
 * ![](./icon/zenn.png) [Actix web で HttpOnly な Cookie を設定する](https://zenn.dev/nikaera/articles/cookie-rust-actix-web)
