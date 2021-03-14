@@ -35,7 +35,8 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-03-14T18:08:32Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-03-14T19:05:50Z]-->
+* ![](./icon/zenn.png) [Gatling で複数ユーザ認証した情報を元に負荷テストする](https://zenn.dev/nikaera/articles/gatling-multiuser)
 * ![](./icon/qiita.png) [[Tips] Jest で private readonly な値をモックする方法](https://qiita.com/nikaera/items/ad65a05e8f7c4950f30e)
 * ![](./icon/zenn.png) [Vercel の定期デプロイを GitHub Actions で実現する](https://zenn.dev/nikaera/articles/vercel-github-actions)
 * ![](./icon/zenn.png) [AWS Lightsail Containers に Actix web をデプロイする](https://zenn.dev/nikaera/articles/aws-lightsail-containers-rust-actix-web)
