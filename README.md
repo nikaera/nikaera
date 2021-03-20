@@ -35,7 +35,7 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-03-20T06:08:29Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-03-20T07:07:09Z]-->
 * ![](./icon/qiita.png) [📔 PlayFab の API 制限に引っかかった](https://qiita.com/nikaera/items/a7d65e9fcae20a42123a)
 * ![](./icon/zenn.png) [Gatling で複数ユーザ認証した情報を元に負荷テストする](https://zenn.dev/nikaera/articles/gatling-multiuser)
 * ![](./icon/qiita.png) [[Tips] Jest で private readonly な値をモックする方法](https://qiita.com/nikaera/items/ad65a05e8f7c4950f30e)
