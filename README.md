@@ -35,7 +35,8 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-03-22T05:16:03Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-03-22T06:10:33Z]-->
+* ![](./icon/zenn.png) [Zenn の記事を DEV に自動的に同期させる GitHub Action 作ってみた](https://zenn.dev/nikaera/articles/sync-zenn-with-dev-action)
 * ![](./icon/qiita.png) [📔 PlayFab の API 制限に引っかかった](https://qiita.com/nikaera/items/a7d65e9fcae20a42123a)
 * ![](./icon/zenn.png) [Gatling で複数ユーザ認証した情報を元に負荷テストする](https://zenn.dev/nikaera/articles/gatling-multiuser)
 * ![](./icon/qiita.png) [[Tips] Jest で private readonly な値をモックする方法](https://qiita.com/nikaera/items/ad65a05e8f7c4950f30e)
@@ -45,7 +46,6 @@ I do back-end development at a Japanese xR company. :sunglasses:
 * ![](./icon/qiita.png) [[Tips] React で highlight.js を適用する方法](https://qiita.com/nikaera/items/aaf62d3312d4ac9e685e)
 * ![](./icon/qiita.png) [[Tips] Hugo で外部リンクを target="_blank" で開く方法](https://qiita.com/nikaera/items/2b5289ce36fc0c8e9f12)
 * ![](./icon/zenn.png) [Hugo で React + TypeScript を利用してサクッとウェブサイトに RSS リーダーを追加する](https://zenn.dev/nikaera/articles/hugo-react-dev)
-* ![](./icon/qiita.png) [MediaPackage 用の CloudFront ディストリビューションを AWS SDK で作成する](https://qiita.com/nikaera/items/b866fd6adca12a88f0ed)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## Stats :bar_chart:
