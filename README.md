@@ -35,7 +35,7 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-05-11T12:11:03Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-05-11T13:19:57Z]-->
 * ![](./icon/zenn.png) [Zenn の記事を DEV に自動的に同期させる GitHub Actions 作ってみた](https://zenn.dev/nikaera/articles/sync-zenn-with-dev-action)
 * ![](./icon/qiita.png) [📔 PlayFab の API 制限に引っかかった](https://qiita.com/nikaera/items/a7d65e9fcae20a42123a)
 * ![](./icon/zenn.png) [Gatling で複数ユーザ認証した情報を元に負荷テストする](https://zenn.dev/nikaera/articles/gatling-multiuser)
