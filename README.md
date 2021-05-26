@@ -35,7 +35,8 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-05-26T15:13:42Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-05-26T16:35:33Z]-->
+* ![](./icon/zenn.png) [GameCI で Unity の CI 環境を GitHub Actions で構築する](https://zenn.dev/nikaera/articles/unity-gameci-github-actions)
 * ![](./icon/qiita.png) [Pillow を使って画像に縦書きテキストを埋め込む](https://qiita.com/nikaera/items/164ba0e19bd80e4778aa)
 * ![](./icon/zenn.png) [Zenn の記事を DEV に自動的に同期させる GitHub Actions 作ってみた](https://zenn.dev/nikaera/articles/sync-zenn-with-dev-action)
 * ![](./icon/qiita.png) [📔 PlayFab の API 制限に引っかかった](https://qiita.com/nikaera/items/a7d65e9fcae20a42123a)
@@ -45,7 +46,6 @@ I do back-end development at a Japanese xR company. :sunglasses:
 * ![](./icon/zenn.png) [AWS Lightsail Containers に Actix web をデプロイする](https://zenn.dev/nikaera/articles/aws-lightsail-containers-rust-actix-web)
 * ![](./icon/zenn.png) [Actix web で HttpOnly な Cookie を設定する](https://zenn.dev/nikaera/articles/cookie-rust-actix-web)
 * ![](./icon/qiita.png) [[Tips] React で highlight.js を適用する方法](https://qiita.com/nikaera/items/aaf62d3312d4ac9e685e)
-* ![](./icon/qiita.png) [[Tips] Hugo で外部リンクを target="_blank" で開く方法](https://qiita.com/nikaera/items/2b5289ce36fc0c8e9f12)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## Stats :bar_chart:
