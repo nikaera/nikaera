@@ -35,7 +35,7 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-06-22T20:08:37Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-06-22T21:07:18Z]-->
 * ![](./icon/zenn.png) [GameCI で Unity の CI 環境を GitHub Actions で構築する](https://zenn.dev/nikaera/articles/unity-gameci-github-actions)
 * ![](./icon/qiita.png) [Pillow を使って画像に縦書きテキストを埋め込む](https://qiita.com/nikaera/items/164ba0e19bd80e4778aa)
 * ![](./icon/zenn.png) [Zenn の記事を DEV に自動的に同期させる GitHub Actions 作ってみた](https://zenn.dev/nikaera/articles/sync-zenn-with-dev-action)
