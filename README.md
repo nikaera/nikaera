@@ -35,7 +35,7 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-09-06T13:17:04Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-09-06T14:08:34Z]-->
 * ![](./icon/zenn.png) [Unity で iOS/Android アプリの設定値をセキュアに扱う方法](https://zenn.dev/nikaera/articles/unity-ios-android-secret-manager)
 * ![](./icon/zenn.png) [GameCI で Unity の CI 環境を GitHub Actions で構築する](https://zenn.dev/nikaera/articles/unity-gameci-github-actions)
 * ![](./icon/qiita.png) [Pillow を使って画像に縦書きテキストを埋め込む](https://qiita.com/nikaera/items/164ba0e19bd80e4778aa)
