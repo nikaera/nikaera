@@ -35,7 +35,7 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-12-27T20:10:35Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-12-27T21:08:40Z]-->
 * ![](./icon/zenn.png) [ECS Fargate のメトリクスを Prometheus Agent 使って AMP に送って Grafana で監視する](https://zenn.dev/nikaera/articles/aws-ecs-fargate-amp-grafana)
 * ![](./icon/zenn.png) [Unity で iOS/Android アプリの設定値をセキュアに扱う方法](https://zenn.dev/nikaera/articles/unity-ios-android-secret-manager)
 * ![](./icon/zenn.png) [GameCI で Unity の CI 環境を GitHub Actions で構築する](https://zenn.dev/nikaera/articles/unity-gameci-github-actions)
