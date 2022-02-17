@@ -35,17 +35,17 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-02-17T07:09:37Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-02-17T08:11:04Z]-->
 * ![](./icon/qiita.png) [[Tips] AWS WAF を紐付けた API Gateway で 10KB を超えるリクエストを送信できない](https://qiita.com/nikaera/items/9c8f347622ab9e797ac7)
 * ![](./icon/zenn.png) [ECS Fargate のメトリクスを Prometheus Agent 使って AMP に送って Grafana で監視する](https://zenn.dev/nikaera/articles/aws-ecs-fargate-amp-grafana)
 * ![](./icon/zenn.png) [Unity で iOS/Android アプリの設定値をセキュアに扱う方法](https://zenn.dev/nikaera/articles/unity-ios-android-secret-manager)
-* ![](./icon/zenn.png) [GameCI で Unity の CI 環境を GitHub Ations で構築する](https://zenn.dev/nikaera/articles/unity-gameci-github-actions)
+* ![](./icon/zenn.png) [GameCI で Unity の CI 環境を GitHub Actions で構築する](https://zenn.dev/nikaera/articles/unity-gameci-github-actions)
 * ![](./icon/qiita.png) [Pillow を使って画像に縦書きテキストを埋め込む](https://qiita.com/nikaera/items/164ba0e19bd80e4778aa)
-* ![](./icon/zenn.png) [Zenn の記事を DEV に自動的に同期させる GitHub Ations 作ってみた](https://zenn.dev/nikaera/articles/sync-zenn-with-dev-action)
+* ![](./icon/zenn.png) [Zenn の記事を DEV に自動的に同期させる GitHub Actions 作ってみた](https://zenn.dev/nikaera/articles/sync-zenn-with-dev-action)
 * ![](./icon/qiita.png) [📔 PlayFab の API 制限に引っかかった](https://qiita.com/nikaera/items/a7d65e9fcae20a42123a)
 * ![](./icon/zenn.png) [Gatling で複数ユーザ認証した情報を元に負荷テストする](https://zenn.dev/nikaera/articles/gatling-multiuser)
 * ![](./icon/qiita.png) [[Tips] Jest で private readonly な値をモックする方法](https://qiita.com/nikaera/items/ad65a05e8f7c4950f30e)
-* ![](./icon/zenn.png) [Verel の定期デプロイを GitHub Ations で実現する](https://zenn.dev/nikaera/articles/vercel-github-actions)
+* ![](./icon/zenn.png) [Vercel の定期デプロイを GitHub Actions で実現する](https://zenn.dev/nikaera/articles/vercel-github-actions)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## Stats :bar_chart:
