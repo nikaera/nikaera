@@ -1,8 +1,8 @@
 <a href="https://github.com/nikaera/">
   <img src="https://komarev.com/ghpvc/?username=nikaera" alt="nikaera" />
 </a>
-<a href="http://twitter.com/n1kaera">
-  <img height="20" src="https://img.shields.io/twitter/follow/n1kaera?label=Twitter&logo=twitter&style=flat" />
+<a href="https://x.com/nikaera">
+  <img height="20" src="https://img.shields.io/twitter/follow/nikaera?logo=x&style=flat" />
 </a>
 <a href="https://github.com/nikaera">
   <img height="20" src="https://img.shields.io/github/followers/nikaera?label=follow&logo=github&style=flat" />
