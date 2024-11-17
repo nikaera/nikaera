@@ -35,7 +35,7 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-11-17T12:03:43Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-11-17T13:05:57Z]-->
 * ![](./icon/qiita.png) [[Tips] AWS WAF を紐付けた API Gateway で 10KB を超えるリクエストを送信できない](https://qiita.com/nikaera/items/9c8f347622ab9e797ac7)
 * ![](./icon/zenn.png) [ECS Fargate のメトリクスを Prometheus Agent 使って AMP に送って Grafana で監視する](https://zenn.dev/nikaera/articles/aws-ecs-fargate-amp-grafana)
 * ![](./icon/zenn.png) [Unity で iOS/Android アプリの設定値をセキュアに扱う方法](https://zenn.dev/nikaera/articles/unity-ios-android-secret-manager)
