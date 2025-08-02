@@ -35,7 +35,8 @@ I do back-end development at a Japanese xR company. :sunglasses:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2025-08-02T07:03:09Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2025-08-02T08:03:44Z]-->
+* ![](./icon/zenn.png) [OpenNext + Drizzle で Cloudflare D1 環境を最も楽に構築する](https://zenn.dev/nikaera/articles/cloudflare-opennext-drizzle)
 * ![](./icon/zenn.png) [Flutter で本格的な HTTP キャッシュライブラリ「AeroCache」を作ってみた](https://zenn.dev/nikaera/articles/aero-cache-flutter-http-caching-deep-dive)
 * ![](./icon/qiita.png) [[Tips] AWS WAF を紐付けた API Gateway で 10KB を超えるリクエストを送信できない](https://qiita.com/nikaera/items/9c8f347622ab9e797ac7)
 * ![](./icon/zenn.png) [ECS Fargate のメトリクスを Prometheus Agent 使って AMP に送って Grafana で監視する](https://zenn.dev/nikaera/articles/aws-ecs-fargate-amp-grafana)
@@ -45,7 +46,6 @@ I do back-end development at a Japanese xR company. :sunglasses:
 * ![](./icon/zenn.png) [Zenn の記事を DEV に自動的に同期させる GitHub Actions 作ってみた](https://zenn.dev/nikaera/articles/sync-zenn-with-dev-action)
 * ![](./icon/qiita.png) [📔 PlayFab の API 制限に引っかかった](https://qiita.com/nikaera/items/a7d65e9fcae20a42123a)
 * ![](./icon/zenn.png) [Gatling で複数ユーザ認証した情報を元に負荷テストする](https://zenn.dev/nikaera/articles/gatling-multiuser)
-* ![](./icon/qiita.png) [[Tips] Jest で private readonly な値をモックする方法](https://qiita.com/nikaera/items/ad65a05e8f7c4950f30e)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## Stats :bar_chart:
